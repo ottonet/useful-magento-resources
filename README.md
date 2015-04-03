@@ -7,3 +7,7 @@ My list of useful magento resources
 #### Category Pages
 [Add a new attribute like a second description to a category](http://www.atwix.com/magento/add-category-attribute/)<br />
 [Add a custom field to the Category Admin Page](http://www.marketingadept.com/blog/magento-developers-add-a-custom-field-to-the-category-admin-page/)
+
+
+#### CSS Tricks
+[Pure CSS Loading Animations](http://connoratherton.com/loaders)<br />
