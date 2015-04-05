@@ -28,3 +28,4 @@ My list of useful magento resources
 
 #### Rich Snippets
 [Google Developers - Rich Snippets Testing Tool](https://developers.google.com/structured-data/testing-tool/) 
+[Byte Blog: Rich Snippets in Magento 1.9.x](https://www.byte.nl/blog/rich-snippets-magento-1-9-x/)
