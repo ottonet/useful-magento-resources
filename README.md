@@ -26,6 +26,9 @@ My list of useful magento resources
 #### CSS Tricks
 [Pure CSS Loading Animations](http://connoratherton.com/loaders)<br />
 
+#### Favicons
+[Favicon generator](http://www.favicomatic.com/)<br />
+
 #### Rich Snippets
 [Google Developers - Rich Snippets Testing Tool](https://developers.google.com/structured-data/testing-tool/) 
 [Byte Blog: Rich Snippets in Magento 1.9.x](https://www.byte.nl/blog/rich-snippets-magento-1-9-x/)
